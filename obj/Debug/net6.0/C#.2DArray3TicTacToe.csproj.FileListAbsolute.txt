@@ -1,0 +1,15 @@
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\bin\Debug\net6.0\C#.2DArray3TicTacToe.exe
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\bin\Debug\net6.0\C#.2DArray3TicTacToe.deps.json
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\bin\Debug\net6.0\C#.2DArray3TicTacToe.runtimeconfig.json
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\bin\Debug\net6.0\C#.2DArray3TicTacToe.dll
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\bin\Debug\net6.0\C#.2DArray3TicTacToe.pdb
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.AssemblyInfo.cs
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.dll
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\refint\C#.2DArray3TicTacToe.dll
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.pdb
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\C#.2DArray3TicTacToe.genruntimeconfig.cache
+C:\Users\Andre\source\repos\C#.2DArray3TicTacToe\C#.2DArray3TicTacToe\obj\Debug\net6.0\ref\C#.2DArray3TicTacToe.dll
